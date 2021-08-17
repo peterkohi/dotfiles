@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = do.duc.khoi@gmail.com
+	name = PETER KHOI
